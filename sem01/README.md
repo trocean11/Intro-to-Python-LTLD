@@ -2,4 +2,4 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-[Markdown]('https://github.com/dashapopova/Intro-to-R/blob/main/week%201/markdown.md')
+[Markdown](https://github.com/dashapopova/Intro-to-R/blob/main/week%201/markdown.md)
