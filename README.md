@@ -2,7 +2,7 @@
 
 **Grading formula**: 0,3 * HW1 + 0,3 * HW2 + 0,4 * Final Project
 
-Plan of the course.
+**Plan of the course.**
 
 [Seminar 1](https://github.com/trocean11/Intro-to-Python-LTLD/tree/main/sem01): variables, numbers (int, float), booleans, strings, string methods, print(), input()
 
