@@ -8,7 +8,7 @@
 
 [Seminar 2](https://github.com/trocean11/Intro-to-Python-LTLD/tree/main/sem02): if/else, loops (for, while), lists
 
-Seminar 3: dictionaries, sets
+[Seminar 3](https://github.com/trocean11/Intro-to-Python-LTLD/blob/main/sem03): dictionaries, sets
 
 Seminar 4: functions, libraries, sorting
 
