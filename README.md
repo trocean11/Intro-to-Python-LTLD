@@ -10,7 +10,7 @@
 
 [Seminar 3](https://github.com/trocean11/Intro-to-Python-LTLD/blob/main/sem03): dictionaries, sets
 
-Seminar 4: functions, libraries, sorting
+[Seminar 4](https://github.com/trocean11/Intro-to-Python-LTLD/blob/main/sem04): functions, libraries, sorting
 
 Seminar 5: work with files, regular expressions
 
