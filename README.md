@@ -12,7 +12,7 @@
 
 [Seminar 4](https://github.com/trocean11/Intro-to-Python-LTLD/blob/main/sem04): functions, libraries, sorting
 
-Seminar 5: work with files, regular expressions
+[Seminar 5](https://github.com/trocean11/Intro-to-Python-LTLD/blob/main/sem05): work with files, regular expressions
 
 Seminar 6: CSV/TSV-files, JSON-files, Pandas, selection/filtering
 
