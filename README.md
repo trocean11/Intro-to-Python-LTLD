@@ -14,6 +14,6 @@
 
 [Seminar 5](https://github.com/trocean11/Intro-to-Python-LTLD/blob/main/sem05): work with files, regular expressions
 
-Seminar 6: CSV/TSV-files, JSON-files, Pandas, selection/filtering
+[Seminar 6](https://github.com/trocean11/Intro-to-Python-LTLD/tree/main/sem06): CSV/TSV-files, JSON-files, Pandas, selection/filtering
 
 Seminar 7-8: more advanced Pandas (aggregation, merging, work with missing data, string operations in dataframes, etc.) 
