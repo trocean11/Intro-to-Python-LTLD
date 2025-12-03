@@ -16,4 +16,4 @@
 
 [Seminar 6](https://github.com/trocean11/Intro-to-Python-LTLD/tree/main/sem06): CSV/TSV-files, Pandas, selection/filtering
 
-Seminar 7-8: JSON-files, more advanced Pandas (aggregation, merging, work with missing data, string operations in dataframes, etc.) 
+[Seminar 7-8](https://github.com/trocean11/Intro-to-Python-LTLD/tree/main/sem07): JSON-files, more advanced Pandas (aggregation, merging, work with missing data, string operations in dataframes, etc.) 
