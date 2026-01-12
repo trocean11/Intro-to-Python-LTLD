@@ -17,3 +17,7 @@
 [Seminar 6](https://github.com/trocean11/Intro-to-Python-LTLD/tree/main/sem06): CSV/TSV-files, Pandas, selection/filtering
 
 [Seminar 7-8](https://github.com/trocean11/Intro-to-Python-LTLD/tree/main/sem07): JSON-files, more advanced Pandas (aggregation, merging, work with missing data, string operations in dataframes, etc.) 
+
+**Useful materials: **
+
+[Notes from FCS HSE (in Russian)](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2F8ykxcZKlzew5DsOYBEMc%2FuWOdRVUVulfh3BTZK4r8%2FY%3D&name=book-python.pdf)
