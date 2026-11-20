@@ -22,6 +22,8 @@
 
 [Notes from FCS HSE (in Russian)](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2F8ykxcZKlzew5DsOYBEMc%2FuWOdRVUVulfh3BTZK4r8%2FY%3D&name=book-python.pdf)
 
+[Notebooks with solutions]
+
 **Homeworks:**
 
 [Homework 1](https://github.com/trocean11/Intro-to-Python-LTLD/tree/main/homework1)
